@@ -30,7 +30,7 @@ Trang quản lý công việc của nhà tuyển dụng
 ![alt text](./public/assets/images/image-2.png)
 
 Trang quản lý CV  của nhà tuyển dụng
-![alt text](./public/assets//images/image-3.png)
+![alt text](./public/assets/images/image-3.png)
 
 Trang quản lý CV của ứng viên
 ![alt text](./public/assets/images/image-4.png)
