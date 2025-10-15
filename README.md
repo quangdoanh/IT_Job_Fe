@@ -66,7 +66,7 @@ Trang quản lý CV của ứng viên
 ## Dự án này thể hiện kỹ năng của tôi trong việc:
 
 - Xây dựng **RESTful API** với Node.js, Express và MongoDB.  
-- Tạo **giao diện Frontend hiện đại** với Next.js, React và Tailwind CSS và 1 số thư viện hỗ trợ.  
+- Tạo **giao diện Frontend hiện đại** với Next.js và Tailwind CSS và 1 số thư viện hỗ trợ.  
 - **Quản lý người dùng, xác thực và bảo mật** bằng JWT, bcrypt và cookie-parser.  
 - **Xử lý file & hình ảnh** với Multer và Cloudinary.  
 - Thiết kế **quản lý dữ liệu** cho nhà tuyển dụng và ứng viên.  
