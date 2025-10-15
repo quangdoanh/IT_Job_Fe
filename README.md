@@ -21,7 +21,7 @@ IT Job Seek là một hệ thống quản lý việc làm IT toàn diện.
 ---
 # Hình ảnh giao diện
 Giao diện đăng nhập 
-![alt text](./public/assets/images/)
+![alt text](./public/assets/images/image-1.png)
 
 Giao diện trang chủ 
 ![alt text](./public/assets/images/image.png)
